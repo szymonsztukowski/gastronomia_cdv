@@ -68,3 +68,5 @@ Wszystkie porcje pizzy mają średnicę 32 cm.
 | Pieczywo | Dodatkowe pieczywo w ramach przystawki (klasyczna fokaccia) | 10 zł (3 szt.) |
 
 Zapytaj obsługę o kartę wartości odżywczych.
+
+Do każdego dania na wynos doliczana jest opłata 2 zł za opakowanie.
