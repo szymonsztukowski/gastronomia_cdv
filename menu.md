@@ -64,5 +64,6 @@ Wszystkie porcje pizzy mają średnicę 32 cm.
 | Dodatkowy sos pomidorowy | Klasyczny włoski sos pomidorowy | 5 zł |
 | Dodatkowa oliwa | Oliwa wykorzystywana do przyprawiania dań | 5 zł |
 | Sos pietruszkowo-czosnkowy | Sos pietruszkowo-czosnkowy na bazie oliwy | 6 zł |
+| Pieczywo | Dodatkowe pieczywo w ramach przystawki (klasyczna fokaccia) | 10 zł (3 szt.) |
 
 Zapytaj obsługę o kartę wartości odżywczych.
