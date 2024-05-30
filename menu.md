@@ -57,4 +57,10 @@ Wszystkie porcje pizzy mają średnicę 32 cm.
 | Woda gazowana San Pellegrino | Szklanka 250 ml wody gazowanej San Pellegrino | 5 zł |
 | Sok ze świeżych pomarańczy | Szklanka 250 ml soku ze świeżo wyciskanych pomarańczy | 7 zł |
 
+## Dodatki
+| Nazwa | Opis | Cena |
+|------|-------------|-------|
+| Dodatkowy sos pomidorowy | Klasyczny włoski sos pomidorowy | 5 zł |
+| Dodatkowa oliwa | Oliwa wykorzystywana do przyprawiania dań | 5 zł |
+| Sos pietruszkowo-czosnkowy | Sos pietruszkowo-czosnkowy na bazie oliwy | 6 zł |
 Zapytaj obsługę o kartę wartości odżywczych.
