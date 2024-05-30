@@ -58,9 +58,11 @@ Wszystkie porcje pizzy mają średnicę 32 cm.
 | Sok ze świeżych pomarańczy | Szklanka 250 ml soku ze świeżo wyciskanych pomarańczy | 7 zł |
 
 ## Dodatki
+![dodatki](img/dodatki.jpg)
 | Nazwa | Opis | Cena |
 |------|-------------|-------|
 | Dodatkowy sos pomidorowy | Klasyczny włoski sos pomidorowy | 5 zł |
 | Dodatkowa oliwa | Oliwa wykorzystywana do przyprawiania dań | 5 zł |
 | Sos pietruszkowo-czosnkowy | Sos pietruszkowo-czosnkowy na bazie oliwy | 6 zł |
+
 Zapytaj obsługę o kartę wartości odżywczych.
