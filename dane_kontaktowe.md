@@ -1,3 +1,4 @@
+![logo](img/logo.png)
 # Dane kontaktowe
 
 ### Lokalizacja
