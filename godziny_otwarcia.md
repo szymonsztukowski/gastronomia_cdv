@@ -1,5 +1,6 @@
 # Godziny otwarcia
 
+![logo](img/logo.png)
 Nasza restauracja czynna jest w następujące dni i godziny:
 
 - Poniedziałek: 12:00 - 20:00
