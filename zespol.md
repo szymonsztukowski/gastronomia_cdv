@@ -3,6 +3,8 @@
 
 ## Kierownictwo
 
+![management](img/management.jpg)
+
 - **Dyrektor Restauracji**: Szymon Sztukowski
 - **Kucharz Główny**: Jan Kowalski
 - **Menedżer**: Magdalena Andrzejewska
