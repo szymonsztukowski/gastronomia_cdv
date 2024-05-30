@@ -11,4 +11,4 @@ ul. Kutrzeby 10, Poznań
 +48 456 789 123
 
 ### Adres e-mail
-kontakt@dvr.pl
+kontakt@dvristorante.pl
