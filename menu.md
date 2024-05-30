@@ -30,16 +30,16 @@ Wszystkie porcje pizzy mają średnicę 32 cm.
 | Nazwa | Opis | Cena |
 |------|-------------|-------|
 | Lasagne Zucchini| Lasagne z dodatkową cukinią | 31 zł |
-| Lasagne Pepperoni | Lasagne z pepperoni | 35 zł|
+| Lasagne Pepperoni | Lasagne z pepperoni | 33 zł|
 | Lasagne Bolognese | Klasyczne lasagne z serem, sosem pomidorowym i mięsem mielonym | 30 zł |
 
 ## Desery
 ![desery](img/desery.jpg)
 | Nazwa | Opis | Cena |
 |------|-------------|-------|
-| Tiramisu| Klasyczne Tiramisu podawane w pucharku | 12 zł |
+| Tiramisu| Klasyczne Tiramisu podawane w pucharku | 14 zł |
 | Cannolo | Chrupiące rurki z kremem z sera ricotta | 20 zł (5 szt.) |
-| Panettone | Delikatna babka drożdżowa | 50 zł |
+| Panettone | Delikatna babka drożdżowa | 48 zł |
 
 ## Napoje ciepłe
 ![napoje ciepłe](img/napoje-c.jpg)
@@ -50,8 +50,9 @@ Wszystkie porcje pizzy mają średnicę 32 cm.
 | Latte | Duża mleczna kawa latte na bazie espresso | 15 zł |
 
 ## Napoje zimne
+![napoje zimne](img/napoje-z.jpg)
 | Nazwa | Opis | Cena |
 |------|-------------|-------|
 | Woda niegazowana | Szklanka 250 ml wody niegazowanej | GRATIS |
 | Woda gazowana San Pellegrino | Szklanka 250 ml wody gazowanej San Pellegrino | 5 zł |
-| Sok ze świeżych pomarańczy | Szklanka 250 ml soku ze świeżo wyciskanych pomarańczy | 8 zł |
+| Sok ze świeżych pomarańczy | Szklanka 250 ml soku ze świeżo wyciskanych pomarańczy | 7 zł |
