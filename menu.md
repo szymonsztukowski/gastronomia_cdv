@@ -12,6 +12,7 @@
 | Pizza Hot Pepperoni| Pizza z pepperoni i ostrą papryczką jalapeno | 45 zł |
 | Pizza Vege| Pizza zawiera sos pomidorowy, mozzarellę, kukurydzę, pomidorki koktajlowe, paprykę, cebulę, oregano | 45 zł |
 | Pizza Quatro Formaggio| Pizza z sosem kremowym, serem mozzarella, cheddar, ementaler i pleśniowym | 51 zł |
+| Sos śmietanowy | Sos śmietanowy na pizzy zamiast pomidorowego | 5 zł |
 
 Wszystkie porcje pizzy mają średnicę 32 cm.
 
