@@ -11,10 +11,14 @@
 
 ## Personel Kuchni
 
+![kucharze](img/kucharze.jpg)
+
 - **Kucharze**: Jan Kowalski, Adam Nowak, Łukasz Nowak
 - **Pomocnicy Kuchenni**: Katarzyna Kowalska, Anna Nowak
 
 ## Personel Obsługi
+
+![kelnerzy](img/kelnerzy.jpg)
 
 - **Kelnerzy**: Bartosz Kuchciński, Hubert Urbański
 - **Barman**: Adam Ewański
