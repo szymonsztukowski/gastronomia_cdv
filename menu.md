@@ -23,3 +23,12 @@ Wszystkie porcje pizzy mają średnicę 32 cm.
 | Spaghetti Carbonara | Spaghetti z serem i boczkiem | 25 zł|
 | Spaghetti Aglio e Oglio | Spaghetti z serem, oliwą z oliwek, czosnkiem i chilli | 28 zł|
 | Spaghetti Bolognese| Klasyczne spaghetti z sosem bolońskim i mięsem mielonym | 27 zł |
+
+## Lasagne
+![lasagne](img/lasagne.jpg)
+| Nazwa | Opis | Cena |
+|------|-------------|-------|
+| Lasagne Zucchini| Lasagne z dodatkową cukinią | 31 zł |
+| Lasagne Pepperoni | Lasagne z pepperoni | 35 zł|
+| Lasagne Bolognese | Klasyczne lasagne z serem, sosem pomidorowym i mięsem mielonym | 30 zł|
+
