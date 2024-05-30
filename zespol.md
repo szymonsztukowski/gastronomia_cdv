@@ -1,3 +1,4 @@
+![logo](img/logo.png)
 # Zespół Restauracji "Da Vinci Ristorante"
 
 ## Kierownictwo
