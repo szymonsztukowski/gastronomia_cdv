@@ -5,7 +5,7 @@
 
 - **Dyrektor Restauracji**: Szymon Sztukowski
 - **Kucharz Główny**: Jan Kowalski
-- **Menedżer**: Krzysztof Marcinkowski
+- **Menedżer**: Magdalena Andrzejewska
 
 ## Personel Kuchni
 
@@ -16,3 +16,4 @@
 
 - **Kelnerzy**: Bartosz Kuchciński, Hubert Urbański
 - **Barman**: Adam Ewański
+
