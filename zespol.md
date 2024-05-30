@@ -23,3 +23,5 @@
 - **Kelnerzy**: Bartosz Kuchciński, Hubert Urbański
 - **Barman**: Adam Ewański
 
+W przypadku rezerwacji prosimy o kontakt z Managerem Magdaleną Andrzejewską (+48 123 456 789).
+
