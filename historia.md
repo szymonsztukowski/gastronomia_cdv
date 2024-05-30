@@ -1,5 +1,6 @@
 # Historia restauracji
 
+![logo](img/logo.png)
 Włoska restauracja "Da Vinci Ristorante" jest jednym z najstarszych i najbardziej renomowanych lokali gastronomicznych w centrum Poznania. Została założona w 1975 roku przez rodzinę Orsini, która pragnęła przekazać swoją miłość do autentycznej włoskiej kuchni mieszkańcom i turystom.
 
 Początkowo restauracja była małym skromnym lokalem, ale dzięki staraniom rodziny Orsini i ich pasji do gotowania, szybko zdobyła popularność i uznanie wśród smakoszy. Wraz z rosnącym zainteresowaniem, restauracja przeniosła się do większego lokalu przy ulicy Kutrzeby 10, gdzie obsługuje do dziś najbardziej wymagających gości.
