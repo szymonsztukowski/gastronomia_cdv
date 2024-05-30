@@ -15,7 +15,7 @@
 
 Wszystkie porcje pizzy mają średnicę 32 cm.
 
-## Spaghetti
+## Makarony
 ![spaghetti](img/spaghetti.jpg)
 | Nazwa | Opis | Cena |
 |------|-------------|-------|
@@ -23,6 +23,7 @@ Wszystkie porcje pizzy mają średnicę 32 cm.
 | Spaghetti Carbonara | Spaghetti z serem i boczkiem | 25 zł|
 | Spaghetti Aglio e Oglio | Spaghetti z serem, oliwą z oliwek, czosnkiem i chilli | 28 zł|
 | Spaghetti Bolognese| Klasyczne spaghetti z sosem bolońskim i mięsem mielonym | 27 zł |
+| Pesto| Makaron z sosem pesto alla genovese | 26 zł |
 
 ## Lasagne
 ![lasagne](img/lasagne.jpg)
