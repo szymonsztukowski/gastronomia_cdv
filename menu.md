@@ -56,3 +56,5 @@ Wszystkie porcje pizzy mają średnicę 32 cm.
 | Woda niegazowana | Szklanka 250 ml wody niegazowanej | GRATIS |
 | Woda gazowana San Pellegrino | Szklanka 250 ml wody gazowanej San Pellegrino | 5 zł |
 | Sok ze świeżych pomarańczy | Szklanka 250 ml soku ze świeżo wyciskanych pomarańczy | 7 zł |
+
+Zapytaj obsługę o kartę wartości odżywczych.
