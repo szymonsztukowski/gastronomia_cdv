@@ -40,3 +40,10 @@ Wszystkie porcje pizzy mają średnicę 32 cm.
 | Tiramisu| Klasyczne Tiramisu podawane w pucharku | 12 zł |
 | Cannolo | Chrupiące rurki z kremem z sera ricotta | 20 zł (5 szt.) |
 | Panettone | Delikatna babka drożdżowa | 50 zł|
+
+## Napoje
+| Nazwa | Opis | Cena |
+|------|-------------|-------|
+| Espresso | Klasyczne espresso ze szklanką wody | 7 zł |
+| Cappuccino | Klasyczne cappuccino z pianką mleczną i posypką kawową | 13 zł |
+| Latte | Duża mleczna kawa latte na bazie espresso | 15 zł|
