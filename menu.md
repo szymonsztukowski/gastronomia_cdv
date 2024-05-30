@@ -32,3 +32,10 @@ Wszystkie porcje pizzy mają średnicę 32 cm.
 | Lasagne Pepperoni | Lasagne z pepperoni | 35 zł|
 | Lasagne Bolognese | Klasyczne lasagne z serem, sosem pomidorowym i mięsem mielonym | 30 zł|
 
+## Desery
+![desery](img/desery.jpg)
+| Nazwa | Opis | Cena |
+|------|-------------|-------|
+| Tiramisu| Klasyczne Tiramisu podawane w pucharku | 12 zł |
+| Cannolo | Chrupiące rurki z kremem z sera ricotta | 20 zł (5 szt.) |
+| Panettone | Delikatna babka drożdżowa | 50 zł|
