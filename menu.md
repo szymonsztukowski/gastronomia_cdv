@@ -42,6 +42,7 @@ Wszystkie porcje pizzy mają średnicę 32 cm.
 | Panettone | Delikatna babka drożdżowa | 50 zł |
 
 ## Napoje ciepłe
+![napoje ciepłe](img/napoje-c.jpg)
 | Nazwa | Opis | Cena |
 |------|-------------|-------|
 | Espresso | Klasyczne espresso ze szklanką wody | 7 zł |
