@@ -29,9 +29,9 @@ Wszystkie porcje pizzy mają średnicę 32 cm.
 ![lasagne](img/lasagne.jpg)
 | Nazwa | Opis | Cena |
 |------|-------------|-------|
-| Lasagne Zucchini| Lasagne z dodatkową cukinią | 31 zł |
+| Lasagne Zucchini| Klasyczna lasagne z dodatkiem cukinii | 31 zł |
 | Lasagne Pepperoni | Lasagne z pepperoni | 33 zł|
-| Lasagne Bolognese | Klasyczne lasagne z serem, sosem pomidorowym i mięsem mielonym | 30 zł |
+| Lasagne Bolognese | Klasyczna lasagne z serem, sosem pomidorowym i mięsem mielonym | 30 zł |
 
 ## Desery
 ![desery](img/desery.jpg)
