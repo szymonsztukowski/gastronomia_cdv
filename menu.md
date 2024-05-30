@@ -70,3 +70,5 @@ Wszystkie porcje pizzy mają średnicę 32 cm.
 Zapytaj obsługę o kartę wartości odżywczych.
 
 Do każdego dania na wynos doliczana jest opłata 2 zł za opakowanie.
+
+Za zajęcie miejsca przy stoliku obowiązuje tzw. coperto w wysokości 5 zł do rachunku.
