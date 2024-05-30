@@ -41,6 +41,7 @@ Wszystkie porcje pizzy mają średnicę 32 cm.
 | Tiramisu| Klasyczne Tiramisu podawane w pucharku | 14 zł |
 | Cannolo | Chrupiące rurki z kremem z sera ricotta | 20 zł (5 szt.) |
 | Panettone | Delikatna babka drożdżowa | 48 zł |
+| Croissant | Klasyczny włoski rogalik z nadzieniem czekoladowym | 12 zł |
 
 ## Napoje ciepłe
 ![napoje ciepłe](img/napoje-c.jpg)
